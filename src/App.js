@@ -101,7 +101,7 @@ class App extends Component {
             setIsTimerRunning={this.state.setIsTimerRunning}
           />
         </div>
-        <Footer className="App-footer mt-8" />
+        {/* <Footer className="App-footer mt-8" /> */}
       </div>
     );
   }
